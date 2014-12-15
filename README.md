@@ -1,1 +1,3 @@
-## Putting stuff in this readme for practice.
+## Putting stuff in this README for practice.
+
+I made some changes :)
